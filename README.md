@@ -10,5 +10,5 @@ com a do app verdadeiro.
 
 O **Gif da direita** é a do app verdadeiro, tem uma leve mudança já que o app segue em constantes mudanças e o **Gif da esquerda** é o resultado do meu codigo.
 
-![alt-text](https://www.tecmundo.com.br/internet/219225-gif-descubra-usar-o-formato.html)            [alt-text](https://www.tecmundo.com.br/internet/219225-gif-descubra-usar-o-formato.html)
+![alt-text](https://img.ibxk.com.br/2021/06/09/09104203263070.gif)                        ![alt-text](https://img.ibxk.com.br/2021/06/09/09104203263070.gif)
 
