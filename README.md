@@ -15,4 +15,4 @@ O **Primeiro GIF** é a do app verdadeiro, tem uma leve mudança já que o app s
 
 **O segundo GIF** é o resultado do meu codigo.
 
-![alt-text](GIF/image1.gif)
+![alt-text](GIF/image1.gif width="400" height="790")
