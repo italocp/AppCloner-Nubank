@@ -1,4 +1,5 @@
 # Nubank
+
 App desenvolvido para testar e aperfeiçoar os conhecimentos em Typescript, durante a desenvolvimento desse projeto, aprendi sobre hooks,
 assim foi possivel desenvoler a fianlidade de privacidade que esconde o saldo do cliente, mas no desrolar do projeto me deparei com um problema
 que o metodo de Hooks que eu conhecia não podia ser reaproveitado por outros elementos no projeto, por se tratatarem de elementos disintos.
@@ -10,5 +11,4 @@ com a do app verdadeiro.
 
 O **Gif da direita** é a do app verdadeiro, tem uma leve mudança já que o app segue em constantes mudanças e o **Gif da esquerda** é o resultado do meu codigo.
 
-![alt-text](https://img.ibxk.com.br/2021/06/09/09104203263070.gif)                        ![alt-text](https://img.ibxk.com.br/2021/06/09/09104203263070.gif)
-
+![alt-text](GIF/image0.gif) ![alt-text](GIF/image1.gif)
