@@ -9,6 +9,10 @@ com a do app verdadeiro.
 
 #### PrintScreen do app
 
-O **Gif da direita** é a do app verdadeiro, tem uma leve mudança já que o app segue em constantes mudanças e o **Gif da esquerda** é o resultado do meu codigo.
+O **Primeiro GIF** é a do app verdadeiro, tem uma leve mudança já que o app segue em constantes mudanças
 
-![alt-text](GIF/image0.gif) ![alt-text](GIF/image1.gif)
+![alt-text](GIF/image0.gif)  
+
+**O segundo GIF** é o resultado do meu codigo.
+
+![alt-text](GIF/image1.gif)
