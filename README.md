@@ -11,8 +11,8 @@ com a do app verdadeiro.
 
 O **Primeiro GIF** é a do app verdadeiro, tem uma leve mudança já que o app segue em constantes mudanças
 
-![alt-text](GIF/image0.gif)  
+![alt-text](GIF/image0.gif)
 
 **O segundo GIF** é o resultado do meu codigo.
 
-![alt-text](GIF/image1.gif width="400" height="790")
+![alt-text]<img src="https://github.com/italocp/AppCloner-Nubank/blob/main/GIF/image0.gif" width="400" height="790">
